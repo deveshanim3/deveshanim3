@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on games especially pokemon
 - 📫 How to reach me email: deveshsingh6986@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: competitve
+- ⚡ Fun fact: competitive
+- 
 
 <!---
 deveshanim3/deveshanim3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
