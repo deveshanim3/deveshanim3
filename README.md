@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deveshanim3
-- 👀 I’m interested in AI/Ml, AR/VR , pokemon games
+- 👀 I’m interested in AI/ML, AR/VR , pokemon games
 - 🌱 I’m currently learning Javascript,python
 - 💞️ I’m looking to collaborate on games especially pokemon
 - 📫 How to reach me email: deveshsingh6986@gmail.com
