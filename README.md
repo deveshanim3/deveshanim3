@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deveshanim3
 - 👀 I’m interested in AI/ML, AR/VR , pokemon games
-- 🌱 I’m currently learning Javascript,python
+- 🌱 I’m currently learning JavaScript,Python and Java
 - 💞️ I’m looking to collaborate on games especially pokemon
 - 📫 How to reach me email: deveshsingh6986@gmail.com
 - 😄 Pronouns: he
