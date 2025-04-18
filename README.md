@@ -21,7 +21,8 @@
 - 📧 Email: [deveshsingh6986@gmail.com](mailto:deveshsingh6986@gmail.com)  
 - 💼 LinkedIn: [Devesh Singh](https://www.linkedin.com/in/devesh-singh-542483318/)  
 - 🧩 LeetCode: [HonouredOneXdeveshSingh0704](https://leetcode.com/u/HonouredOneXdeveshSingh0704/)  
-- 💬 Discord: `paincopoweredbyroymustang`  
+- 💬 Discord: [paincopoweredbyroymustang
+](https://discord.com/users/720206814972477482)  
 
 ---
 
