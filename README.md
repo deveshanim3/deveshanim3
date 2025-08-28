@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Devesh Singh (@deveshanim3)
 
 ### 🧠 About Me
-- 🎓 1st Year B.Tech Student at Polaris School of Technology  
+- 🎓 2nd Year B.Tech Student at Polaris School of Technology  
 - 👀 Passionate about **AI/ML**, **AR/VR**, and **Pokémon games**  
 - 🌱 Currently learning: `JavaScript`, `Python`, and `Java`  
 - 💡 Exploring projects in `game development` and would love to collaborate on **Pokémon-inspired games**  
@@ -12,8 +12,7 @@
 
 ### 🔧 Tech Stack
 - 💻 Frontend: `HTML`, `Tailwind CSS`, `JavaScript`, `React.js`  
-- 📱 Mobile: `Kotlin` (Android)  
-- 🧩 Backend & DB: `Java`, `MySQL`,`MongoDB`,`Node.js`  
+- 🧩 Backend & DB: `Java`, `MySQL`,`MongoDB`,`Node.js`,`ExpressJS`  
 
 ---
 
